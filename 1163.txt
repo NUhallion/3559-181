@@ -1,0 +1,20 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Well done.
+There are two sound files in this repo. There are also 5 numbers hidden throughout this puzzle.
+Multiply them to get the password to unlock the data in the sound file using
+DeepSound.
+
+Good Luck.
+Hallion.
+-----BEGIN PGP SIGNATURE-----
+
+iQEcBAEBCgAGBQJdtjggAAoJEN7Mx94HW5yHXAUIAIOfU79clBwFS0xq6YecM/7I
+NHPx+XuOGu84lJsvW9Uqz6VvCxHxARBF9Xbm+n7gCS+5In2CF/xTmfvtt7CpS/UY
+MIFJ71yEgolTtuorrDKdvfrw3qvx94sLc4U2CTEqWfVNl2RPXQdqsjgsftbwbAAw
+RjxYP2McZvP+qKvS0vk/ukirijfXPwvwT/rpicOZHh/jNpwDqbgfISsfkx/csBJR
+OISGP5Pl9awtS4EwslUH+eZs6XqPRd2rLinwP16+Dzq1C5zFry1z713pbuQjD/lK
+NTOCuxB6Z4GnWwRolE9Rqf4S6fYDod3ELO9cYFUyw0oYL3mkp9fxf4tps+A0YGw=
+=fA+s
+-----END PGP SIGNATURE-----
