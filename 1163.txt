@@ -2,7 +2,7 @@
 Hash: SHA512
 
 Well done.
-There are two sound files in this repo. There are also 5 numbers hidden throughout this puzzle.
+There are two sound files in this repo. There are also 4 prime numbers hidden throughout this puzzle.
 Multiply them to get the password to unlock the data in the sound file using
 DeepSound.
 
